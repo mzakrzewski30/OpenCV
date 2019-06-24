@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\cvlab\project\project\source.cpp(310): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project.vcxproj -> C:\CVLab\Project\x64\Debug\Project.exe
